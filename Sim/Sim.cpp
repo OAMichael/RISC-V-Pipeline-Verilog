@@ -85,7 +85,6 @@ int main(int argc, char** argv) {
 
         model.clock();
         ++clocksToMatch;
-        model.dumpRegs();
     }
 
     return 0;
